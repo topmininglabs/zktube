@@ -3,7 +3,7 @@
 #### ■ 一键脚本运行方法(整行复制粘贴执行)：
 ##### ・Ubuntu：
 ##### ___`sudo apt update && sudo apt-get install wget curl`___
-##### ___`wget https://raw.githubusercontent.com/topmininglabs/zktube/main/topmining_zktube.sh && chmod +x ./topmining_zktube.sh && sudo ./topmining_zktube.sh`___
+##### ___`wget https://github.com/topmininglabs/zktube/raw/main/topmining_zktube-u.sh.x && chmod +x ./topmining_zktube-u.sh.x && sudo ./topmining_zktube-u.sh.x`___
 ##### ・CentOS7：
 ##### ___`sudo yum update && sudo yum install wget curl`___
 ##### ___`wget https://raw.githubusercontent.com/topmininglabs/zktube/main/topmining_zktube.sh && chmod +x ./topmining_zktube.sh && sudo ./topmining_zktube.sh`___
