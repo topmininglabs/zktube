@@ -1,6 +1,20 @@
 # zkTube 一键多开脚本（Ubuntu&CentOS）
 ### ===本脚本仅限TopMininG&amp;无产阶级社群用户使用===
 #### ■ 一键脚本运行方法(整行复制粘贴执行)：
+  
+#### @国内用户：
+##### ・Ubuntu：
+##### ___`sudo apt update && sudo apt-get install wget curl`___
+##### ___`wget https://bee.sgp1.digitaloceanspaces.com/zktube/topmining_zktube-u.sh.x && chmod +x ./topmining_zktube-u.sh.x && sudo ./topmining_zktube-u.sh.x`___
+##### ・CentOS7：
+##### ___`sudo yum update && sudo yum install wget curl`___
+##### ___`wget https://bee.sgp1.digitaloceanspaces.com/zktube/topmining_zktube-u.sh.x && chmod +x ./topmining_zktube-u.sh.x && sudo ./topmining_zktube-u.sh.x`___
+
+##### ・CentOS8：
+##### ___`sudo yum update --nobest && sudo yum install wget curl`___
+##### ___`wget https://bee.sgp1.digitaloceanspaces.com/zktube/topmining_zktube-u.sh.x && chmod +x ./topmining_zktube-u.sh.x && sudo ./topmining_zktube-u.sh.x`___
+  
+#### @海外用户：
 ##### ・Ubuntu：
 ##### ___`sudo apt update && sudo apt-get install wget curl`___
 ##### ___`wget https://github.com/topmininglabs/zktube/raw/main/topmining_zktube-u.sh.x && chmod +x ./topmining_zktube-u.sh.x && sudo ./topmining_zktube-u.sh.x`___
@@ -11,6 +25,7 @@
 ##### ・CentOS8：
 ##### ___`sudo yum update --nobest && sudo yum install wget curl`___
 ##### ___`wget https://github.com/topmininglabs/zktube/raw/main/topmining_zktube-u.sh.x && chmod +x ./topmining_zktube-u.sh.x && sudo ./topmining_zktube-u.sh.x`___
+
 
 
 #### ■ 注意事项
