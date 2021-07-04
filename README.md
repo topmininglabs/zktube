@@ -6,11 +6,11 @@
 ##### ___`wget https://github.com/topmininglabs/zktube/raw/main/topmining_zktube-u.sh.x && chmod +x ./topmining_zktube-u.sh.x && sudo ./topmining_zktube-u.sh.x`___
 ##### ・CentOS7：
 ##### ___`sudo yum update && sudo yum install wget curl`___
-##### ___`wget https://raw.githubusercontent.com/topmininglabs/zktube/main/topmining_zktube.sh && chmod +x ./topmining_zktube.sh && sudo ./topmining_zktube.sh`___
+##### ___`wget https://github.com/topmininglabs/zktube/raw/main/topmining_zktube-u.sh.x && chmod +x ./topmining_zktube-u.sh.x && sudo ./topmining_zktube-u.sh.x`___
 
 ##### ・CentOS8：
 ##### ___`sudo yum update --nobest && sudo yum install wget curl`___
-##### ___`wget https://raw.githubusercontent.com/topmininglabs/zktube/main/topmining_zktube.sh && chmod +x ./topmining_zktube.sh && sudo ./topmining_zktube.sh`___
+##### ___`wget https://github.com/topmininglabs/zktube/raw/main/topmining_zktube-u.sh.x && chmod +x ./topmining_zktube-u.sh.x && sudo ./topmining_zktube-u.sh.x`___
 
 
 #### ■ 注意事项
